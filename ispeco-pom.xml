@@ -37,7 +37,7 @@ mariadb-java-client.version从2.2.4升级到2.2.5（2.2.5修正了2.2.4中的bug
   <groupId>com.supermap.ispeco</groupId>
   <artifactId>ispeco-parent</artifactId>
   <!-- 采用语义化版本规则：major.minor.fix, 当依赖项的版本有变更时，本版本则在低的一级别进行变更，如assertj 从1.x升级到2.x，则本version的major不动,minor升级，如junit从2.3.1升级到2.3.2，则本version不变。 -->
-  <version>11.0.0-SNAPSHOT</version>
+  <version>11.0.1-SNAPSHOT</version>
   <packaging>pom</packaging>
   <name>supermap-ispeco-parent</name>
   <url>http://ispeco.com</url>
