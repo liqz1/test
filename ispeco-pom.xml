@@ -595,7 +595,7 @@ AssertJ 3.x requires Java 8 or higher (use the org.assertj.core.api.Java6Asserti
       <dependency>
         <groupId>ch.qos.cal10n</groupId>
         <artifactId>cal10n-api</artifactId>
-        <version>0.7.7</version>
+        <version>0.8.1</version>
         <!-- //TODO: upgrade to ${cal10n.version} (0.8.1), As of version 0.8, CAL10N ships with an JSR-269 compliant annotation processor named CAL10NAnnotationProcessor.  The maven-compiler-plugin automatically integrates CAL10NAnnotationProcessor for every dependecy of cal10-api -->
       </dependency>
       <dependency>
